@@ -1,2 +1,2 @@
-export const url = 'https://gsf-staging.agilecollab.com/rest/V1/products'
+export const url = 'https://gsf-staging.agilecollab.com/rest/V1/products?searchCriteria[pageSize]=20&searchCriteria[currentPage]=1'
 export const token = "Bearer eyJraWQiOiIxIiwiYWxnIjoiSFMyNTYifQ.eyJ1aWQiOjg5LCJ1dHlwaWQiOjIsImlhdCI6MTcxOTk5Mjc5MSwiZXhwIjoxNzIwNTk3NTkxfQ.Yo_akd-IWLpbWSRlBrl1qwaLUyKcY2_B8cMeHiP-vmQ"
